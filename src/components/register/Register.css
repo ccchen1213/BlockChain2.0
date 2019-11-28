@@ -1,0 +1,7 @@
+.body{
+    height: 900px;
+    background-image: url('../../image/background.jpg');
+    background-size: cover;
+    /*margin: auto;*/
+
+}

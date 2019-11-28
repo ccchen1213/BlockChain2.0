@@ -1,0 +1,95 @@
+@import '~antd/dist/antd.css';
+.content{
+    height: 500px;
+    background-image: url('../../image/home.jpg');
+    background-size: cover;
+}
+
+.titleHome{
+    width: 100%;
+    margin-top: 100px;
+    font-family: "Arial Black";
+    color: white;
+    text-align: center;
+}
+.introduce{
+    display: flex;
+    padding: 40px 100px 20px 100px;
+    background-color: #eeeeee;
+    height: 300px;
+}
+.introText{
+    width:50%;
+    color: #aaaaaa;
+    margin-right: 25%;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    font-family: cursive;
+}
+.introText h1{
+    width: fit-content;
+    padding-bottom: 10px;
+    border-bottom: 2px #000000 solid;
+}
+
+.introPic{
+    width: 35%;
+}
+.introPic img{
+    width: 250px;
+}
+
+.special{
+    display: flex;
+    padding: 40px 100px 20px 100px;
+    /*background-color: #eeeeee;*/
+    height: 300px;
+}
+.specialText{
+    width:50%;
+    color: #aaaaaa;
+    margin-left: 25%;
+    line-height: 2rem;
+    font-size: 1.2rem;
+    font-family: cursive;
+}
+.specialText h1{
+
+    width: fit-content;
+    padding-bottom: 10px;
+    border-bottom: 2px #000000 solid;
+
+}
+.specialPic{
+    width: 35%;
+}
+.specialPic img{
+    width: 250px;
+}
+.use{
+    background-color: #eee;
+    padding-top: 20px;
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+.use h1{
+    width:100%;
+    text-align: center;
+
+}
+.usearea{
+    display: flex;
+    padding: 0px 0px 20px 150px;
+}
+.cars{
+    width: 30%;
+    margin-right: 100px;
+    text-align: center;
+
+}
+.cars p{
+    text-align: left;
+}
+.cars img{
+    width:100px;
+}

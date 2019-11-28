@@ -1,0 +1,6 @@
+@import '~antd/dist/antd.css';
+.contentLogin{
+    height: 700px;
+    background-image: url('../../image/background.jpg');
+    background-size: cover;
+}

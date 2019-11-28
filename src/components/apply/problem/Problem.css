@@ -1,0 +1,33 @@
+.bread{
+    font-size: 1.1rem;
+    padding-bottom: 10px;
+}
+.menus{
+    width: 200px;
+}
+.menus li{
+    height: 60px;
+}
+.progressImg{
+    width: 100%;
+    text-align: center;
+}
+.progressImg img{
+    width: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.proContent{
+    margin:40px 100px 100px 100px;
+}
+.proText{
+    display: flex;
+    border: 1px solid #eee;
+    margin-top: 15px;
+
+}
+.proTitle{
+    padding: 40px;
+    padding-top: 15px;
+}

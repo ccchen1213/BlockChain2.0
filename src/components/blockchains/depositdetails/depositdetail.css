@@ -1,0 +1,15 @@
+.detail_body{
+    background-color:#F7F7F7;
+}
+.detail{
+    display: flex;
+    justify-content:center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.ant-card-head-title{
+    font-size: 25px;
+}
+.smalltitle{
+    float: right;
+}

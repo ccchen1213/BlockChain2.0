@@ -1,0 +1,32 @@
+@import '../../../node_modules/antd/dist/antd.css';
+
+.login-form {
+    max-width: 400px;
+    float: right;
+    border-radius: 8px;
+    background: rgba(100,100,100,0.7);
+    margin-right: 100px;
+    margin-top: 100px;
+    padding: 30px;
+}
+
+.login{
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bolder;
+    color:#000;
+}
+
+.idType{
+    text-align: center;
+}
+
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}
+.register{
+    font-weight: bolder;
+}

@@ -1,0 +1,22 @@
+.directoryblock_body{
+    background-color:#F7F7F7;
+}
+.directory_block{
+    margin-top: 2%;
+}
+.ant-card{
+    box-shadow:-3px 4px 10px #333333;
+}
+.titles{
+    margin: auto;
+    width: 80%;
+    color: #6C6B6B;
+    padding-top: 1%;
+
+}
+
+.oneoftitle{
+    margin-top: 2%;
+    margin: auto;
+    width: 80%;
+}
